@@ -10,6 +10,11 @@
             "StackName": "amplify-nimmt-dev-64256",
             "StackId": "arn:aws:cloudformation:ap-northeast-1:894367665006:stack/amplify-nimmt-dev-64256/d06e9380-663c-11ea-b6a1-0e3b3e43d478",
             "AmplifyAppId": "d3nqd1l47nb59r"
+        },
+        "categories": {
+            "auth": {
+                "nimmtb479fe79": {}
+            }
         }
     }
 }
